@@ -26,4 +26,5 @@ highlight_code = false
 [extra.nav]
 links = [
     "blog/_index.md",
+    "map/_index.md",
 ]
