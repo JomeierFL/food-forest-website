@@ -6,49 +6,10 @@
     }
 </style>
 
-<svg id="map-interactive" viewBox="0 0 210 297">
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect1936"
-       width="32.159233"
-       height="27.240765"
-       x="70.750313"
-       y="79.189156" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect1938"
-       width="35.185986"
-       height="20.808916"
-       x="124.09682"
-       y="78.432472" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect1940"
-       width="24.970699"
-       height="19.673885"
-       x="47.292995"
-       y="136.31911" />
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect1942"
-       width="23.835669"
-       height="17.782166"
-       x="116.52993"
-       y="139.34586" />
-    </g>
-</svg>
-
 <div id="map-description">
     <div class="clic visible">
-        <h1>Clic</h1>
-        <p>This is a seagull:</p>
-        <img src="/img/gull.svg"/>
-        <p>On the main panel, you can see a large version of it, and this one is interactive.</p>
-        <p>Clic on an area to get a description of it</p>
+        <h1>Interaktive Grafik</h1>
+        <p>Unten siehst du eine schematische Darstellung eines Waldgartens. Klicke auf einzelne Elemente, um mehr zu erfahren.</p>
         <br>
     </div>
     {% set areas = get_section(path="map/_index.md") %}
@@ -60,10 +21,44 @@
     {% endfor %}
 </div>
 
+<object id="food-forest-diagram" data="../img/waldgarten-optimized-final.svg" type="image/svg+xml"></object>
+
 </div>
 
 <script>
-    let map = document.getElementById("map-interactive");
+
+    let map = document.getElementById("food-forest-diagram");
+    let description = document.getElementById("map-description");
+    let current_selection = "clic";
+
+    function handler(name) {
+        console.log(name);
+        toggleVisible(current_selection);
+        current_selection = name;
+        toggleVisible(current_selection);
+    }
+
+    // toggle visibility of description block
+    function toggleVisible(name) {
+        let block = description.getElementsByClassName(name);
+        console.log(block)
+        block[0].classList.toggle("visible");
+    }
+
+    map.addEventListener("load", () => {
+        map.contentDocument.getElementById("large-tree").addEventListener("click", () => {
+            handler("large-tree")
+        });
+        map.contentDocument.getElementById("medium-tree-left").addEventListener("click", () => {
+            handler("medium-tree-left")
+        });
+        map.contentDocument.getElementById("medium-tree-right").addEventListener("click", () => {
+            handler("medium-tree-right")
+        });
+    });
+
+
+    /*
     let areas = map.children[0].children;
     console.log(areas)
     let description = document.getElementById("map-description");
@@ -92,5 +87,6 @@
             item.onclick = handler;
         }
     }
+        */
     
 </script>
