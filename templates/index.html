@@ -49,7 +49,9 @@
     {% block header %}{% endblock header %}
     {% include "nav.html" %}
     {% block content %}{% endblock content %}
-    {% include "footer.html" %}
+    {% block footer %}
+        {% include "footer.html" %}
+    {% endblock footer %}
 </body>
 
 </html>

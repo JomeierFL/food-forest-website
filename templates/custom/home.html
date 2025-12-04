@@ -1,7 +1,7 @@
 {% extends "index.html" %}
 
 {% block header %}
-<div class="hero hero-home col center" style="background-image: url(/img/title.jpg); min-height: 60vh;">
+<div class="hero hero-home col center" style="background-image: url(/img/plum-tree-2.jpg); min-height: 60vh;">
 </div>
 {% endblock header %}
 
@@ -10,9 +10,11 @@
     <div class="page">
         <div class="col center">
             <div style="max-width: min(95vw, 1200px);">
-                <p>Willkommen auf der Website zu unserem Waldgarten.</p>
-                <p>Was ist ein Waldgarten?</p>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                {% set introduction = get_page(path="introduction/intro.md") %}
+                <h2 style="text-align:center;">{{ introduction.title }}</h2>
+                {{ introduction.content | safe }}
+                {% set about = get_page(path="introduction/about.md") %}
+                {{ about.content | safe }}      
             </div>
         </div>
     </div>
