@@ -22,9 +22,8 @@
     {#--------- the following are included in every page inheriting from index ---------#}
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta name="generator" content="Zola 0.16"/> 
-    <link rel="stylesheet" type="text/css" href="/combine.css"/>
-    <link rel="stylesheet" type="text/css" href="/custom.css"/>
-    <link rel="stylesheet" type="text/css" href="/css/photoswipe.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ get_url(path="combine.css") }}"/>
+    <link rel="stylesheet" type="text/css" href="{{ get_url(path="custom.css") }}"/>
 
     {# add canonical url if the website is served at multiple places #}
     {%- if page -%}
