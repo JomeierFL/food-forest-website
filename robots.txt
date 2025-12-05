@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://jomeierfl.github.io/food-forest-website/sitemap.xml
