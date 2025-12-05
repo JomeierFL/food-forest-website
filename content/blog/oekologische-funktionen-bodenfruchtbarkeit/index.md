@@ -1,7 +1,7 @@
 +++
 title = "Kulturpflanzengemeinschaften Teil 1 - Bodenfruchtbarkeit"
 description = "Dieser Blog behandelt das Thema Bodenfruchtbarkeit in Kulturpflanzengemeinschaften"
-date = 2025-11-28
+date = 2025-11-30
 
 extra.thumbnail = "/img/soil-fertility.jpg"
 +++
@@ -17,6 +17,8 @@ Ein Boden setzt sich zusammen aus mineralischer Substanz, organischer Substanz, 
 Es mag erstaunlich sein, dass der Anteil organischen Materials bei nur etwa fünf Prozent liegt, und oft sogar tiefer ist. Trotzdem ist dieser Anteil und dessen Zusammensetzung zentral für die Bodenfruchtbarkeit[^3].
 
 ![Pic](soil-fertility-3.jpg)
+<p style="text-align: center;">Abbildung 1: Fruchtbarer Boden mit organischem Material (Quelle: Pixabay.com)</p>
+<br>
 
 In der Natur leben Pflanzen meistens in Gemeinschaften, welche sich in einem stabilen Ökosystem befinden. Ein Teil dieses Ökosystems sind auch die Bodenlebewesen. Die Zusammensetzung der Bodenlebewesen kann sich stark unterscheiden. So sind beispielsweise auf Wiesen mehr Bakterien als Pilze vorhanden, während in Wäldern die Pilze den Grossteil der Bodenlebewesen ausmachen. 
 
@@ -43,6 +45,8 @@ Bodenkrümel sind Zusammensetzungen aus mineralischen und organischen Bestandtei
 Mykorrhiza bezeichnet eine Symbiose zwischen Pflanzen und bestimmten Pilzarten. Die Hyphen (Pilzfäden) sind in Kontakt mit den Pflanzenwurzeln, wo eine Art Austausch stattfindet. Der Pilz versorgt die Pflanze mit Wasser und gelösten Nährstoffen, insbesondere Phosphor, während die Pflanzen den Pilzen dafür Zucker geben[^7]. Mykorrhiza-Pilze bilden unterirdische Netzwerke, welche den Nährstoffaustausch über grosse Distanzen ermöglichen. Aus Sicht der Pflanze wird so ihr Wurzelbereich um ein Vielfaches erhöht und die Pflanze wird stresstoleranter und widerstandsfähiger gegenüber Pathogenen[^14]. Ungestörte und leicht basische Böden eines Food Forests können gute und nachhaltige Habitate für Mykorrhiza-Pilze sein.
 
 ![Pic](soil-fertility-2.jpg)
+<p style="text-align: center;">Abbildung 2: Fungi-Netzwerk am Boden (Quelle: Pixabay.com)</p>
+<br>
 
 Es gibt zwei grosse Gruppen von Mykorrhiza-Pilzen: 
 
