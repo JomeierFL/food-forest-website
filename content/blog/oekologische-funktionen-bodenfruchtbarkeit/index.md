@@ -32,7 +32,7 @@ Es gibt verschiedene Mechanismen, welche die Bodenfruchtbarkeit in einer (Kultur
 
 Eine höhere Pflanzendiversität führt zu einer höheren Aktivität und Diversität der Bodenlebewesen, wie Bakterien und Pilzen, aber auch Kleintieren wie Arthropoden und Regenwürmern. Bodenarthropoden sind ein guter Indikator für die Bodengesundheit, da sie für viele essenzielle Abläufe im Boden, wie den Humusaufbau oder die Belüftung eine wichtige Rolle spielen.  
 
-In einem Experiment in Deutschland wurden im Jahr 2002 Wiesen mit unterschiedlicher Anzahl Arten und funktionalen Gruppen gepflanzt[^4]. Ziel des Experiments ist es, die Effekte der Biodiversität über einen langen Zeitraum zu analysieren. In einer Auswertung von 2015[^5] wurde nachgewiesen, dass die Bodenaktivität in Flächen mit grösserer Pflanzenvielfalt höher ist als auf Flächen mit niedrigerer Pflanzenvielfalt. Eine weitere Auswertung von 2017 zeigt, dass auch die Vielfalt der Bodenarthropoden mit steigender Pflanzenvielfalt zunimmt[^6]. Zusätzlich wurde die Zusammenstellung komplexer, und die Anzahl an seltenen Spezies nahm zu.   
+In einem Experiment in Deutschland wurden im Jahr 2002 Wiesen mit unterschiedlicher Anzahl an Arten und funktionalen Gruppen gepflanzt[^4]. Ziel des Experiments ist es, die Effekte der Biodiversität über einen langen Zeitraum zu analysieren. In einer Auswertung von 2015[^5] wurde nachgewiesen, dass die Bodenaktivität in Flächen mit grösserer Pflanzenvielfalt höher ist als auf Flächen mit niedrigerer Pflanzenvielfalt. Eine weitere Auswertung von 2017 zeigt, dass auch die Vielfalt der Bodenarthropoden mit steigender Pflanzenvielfalt zunimmt[^6]. Zusätzlich wurde die Zusammenstellung komplexer, und die Anzahl an seltenen Spezies nahm zu.
 
 Ein gesundes Bodenleben führt dazu, dass den Pflanzen Nährstoffe in einer geeigneten Form zur Verfügung stehen. Gleichzeitig wird der Krankheitsdruck verringert, da die Konkurrenz für pathogene Bodenorganismen gestärkt wird. Im Gegensatz zu jährlichen Kulturen können sich die Prozesse der Bodenaktivität in Pflanzengemeinschaften mit mehrjährigen Kulturen, wie dem Agroforst, ungestört entfalten.  
 
@@ -52,7 +52,7 @@ Es gibt zwei grosse Gruppen von Mykorrhiza-Pilzen:
 
 1. Ektomykorrhiza sind Pilze, deren Hyphen in die Wurzel der Pflanzen eindringen, nicht jedoch in die Wurzelzellen, sondern in den Zwischenräumen ein Netzwerk bilden. Ektomykorrhiza gehen oft in Symbiose mit Bäumen, und sind so beispielsweise in den mitteleuropäischen Wäldern sehr verbreitet. Einige Ektomykkorhizae bilden auch Fruchtkörper aus, wie z.B. die Trüffel (Tuber). 
 
-2. Endomykorrhiza dringen mit ihren Hyphen in der Wurzelzellen der Pflanze ein, wo der Austausch von Nährstoffen und Zuckern stattfindet. Innerhalb der Endomykorrhiza ist für die Landwirtschaft insbesondere die Klasse der arbuskulären Mykorrhizapilze relevant. Diese gehen eine Symbiose mit einer grossen Zahl and Landpflanzen ein, z.B. Getreide oder Gemüse. Sie bilden ausserdem Glomalin, ein Protein, welches die Bildung von Bodenkrümeln fördert. Arbuskuläre Mykorrhiza-Pilze bilden nie oberirdische Fruchtkörper aus. 
+2. Endomykorrhiza dringen mit ihren Hyphen in die Wurzelzellen der Pflanze ein, wo der Austausch von Nährstoffen und Zuckern stattfindet. Innerhalb der Endomykorrhiza ist für die Landwirtschaft insbesondere die Klasse der arbuskulären Mykorrhizapilze relevant. Diese gehen eine Symbiose mit einer grossen Zahl an Landpflanzen ein, z.B. Getreide oder Gemüse. Sie bilden ausserdem Glomalin, ein Protein, welches die Bildung von Bodenkrümeln fördert. Arbuskuläre Mykorrhiza-Pilze bilden nie oberirdische Fruchtkörper aus.
 
 ## Stickstofffixierung 
 
@@ -72,11 +72,11 @@ Im Folgenden werden beispielhaft Experimente mit Kulturpflanzengemeinschaften be
 
 ## Intercropping mit Leguminosen 
 
-Beim Intercropping werden mehrere Kulturpflanzen mit zeitlicher Überschneidung auf demselben Feld gepflanzt. Beliebt sind zum Beispiel Mischungen von Getreide/Mais mit Leguminosen. 
+Beim Intercropping werden mehrere Kulturpflanzen mit zeitlicher Überschneidung auf demselben Feld gepflanzt. Beliebt sind zum Beispiel Mischungen von Getreide/Mais mit Leguminosen.
 
-Eine Meta-Analyse von 2025 untersuchte, wie sich Leguminosen-Intercroppings auf die Bodengesundheit auswirken[^11]. Es konnte nachgewiesen werden, dass das Intercropping die Vielfalt der Mikroorganismen im Boden, insbesondere Bakterien und Pilzen, erhöht. Der Effekt ist allerdings stark von den Bedingungen und dem Bodenmikrobiom des spezifischen Standortes abhängig. Im selben Experiment wurde auch eine signifikante Verbesserung der Bodenstruktur gegenüber einer Monokultur nachgewiesen. Tiefwurzelnde Pflanzen wie z.B die Erdnüsse lockern verdichtete Bodenhorizonte und fördern die Bildung von Bodenkrümeln. Zudem konnte eine Steigerung des im Boden gespeicherten Kohlenstoffs und Stickstoff und eine erhöhe Aufnahmefähigkeit von Phosphor durch die Pflanzengemeinschaft festgestellt werden. 
+Eine Meta-Analyse von 2025 untersuchte, wie sich Leguminosen-Intercroppings auf die Bodengesundheit auswirken[^11]. Es konnte nachgewiesen werden, dass das Intercropping die Vielfalt der Mikroorganismen im Boden, insbesondere Bakterien und Pilzen, erhöht. Der Effekt ist allerdings stark von den Bedingungen und dem Bodenmikrobiom des spezifischen Standortes abhängig. Im selben Experiment wurde auch eine signifikante Verbesserung der Bodenstruktur gegenüber einer Monokultur nachgewiesen. Tiefwurzelnde Pflanzen wie z.B die Erdnüsse lockern verdichtete Bodenhorizonte und fördern die Bildung von Bodenkrümeln. Zudem konnte eine Steigerung des im Boden gespeicherten Kohlenstoffs und Stickstoffs und eine erhöhte Aufnahmefähigkeit von Phosphor durch die Pflanzengemeinschaft festgestellt werden.
 
-Eine andere Studie bestätigt, dass bei Intercroppings mit Leguminosen der externe Stickstoffeintrag reduziert werden kann, bei gleichbleibendem oder höherem Gesamtertrag[^12]. 
+Eine andere Studie bestätigt, dass bei Intercroppings mit Leguminosen der externe Stickstoffeintrag reduziert werden kann, bei gleichbleibendem oder höherem Gesamtertrag[^12].
 
 ## Silvoarabler Agroforst 
 
