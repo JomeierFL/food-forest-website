@@ -1,6 +1,7 @@
 +++
 title = "Kulturpflanzengemeinschaften Teil 1 - Bodenfruchtbarkeit"
 description = "Dieser Blog behandelt das Thema Bodenfruchtbarkeit in Kulturpflanzengemeinschaften"
+date = 2025-11-28
 
 extra.thumbnail = "/img/soil-fertility.jpg"
 +++
@@ -13,7 +14,9 @@ Im Boden laufen verschiedene biologische, chemische und physikalische Prozesse a
 
 Ein Boden setzt sich zusammen aus mineralischer Substanz, organischer Substanz, Wasser und Luft. Die Anteile liegen dabei etwa bei 5% organischer Substanz und 45% mineralischer Substanz. Die restlichen 50% sind Wasser oder Luft, je nach aktueller Feuchtigkeit des Bodens[^2].  
 
-Es mag erstaunlich sein, dass der Anteil organischen Materials bei nur etwa fünf Prozent liegt, und oft sogar tiefer ist. Trotzdem ist dieser Anteil und dessen Zusammensetzung zentral für die Bodenfruchtbarkeit[^3].  
+Es mag erstaunlich sein, dass der Anteil organischen Materials bei nur etwa fünf Prozent liegt, und oft sogar tiefer ist. Trotzdem ist dieser Anteil und dessen Zusammensetzung zentral für die Bodenfruchtbarkeit[^3].
+
+![Pic](soil-fertility-3.jpg)
 
 In der Natur leben Pflanzen meistens in Gemeinschaften, welche sich in einem stabilen Ökosystem befinden. Ein Teil dieses Ökosystems sind auch die Bodenlebewesen. Die Zusammensetzung der Bodenlebewesen kann sich stark unterscheiden. So sind beispielsweise auf Wiesen mehr Bakterien als Pilze vorhanden, während in Wäldern die Pilze den Grossteil der Bodenlebewesen ausmachen. 
 
@@ -37,7 +40,9 @@ Bodenkrümel sind Zusammensetzungen aus mineralischen und organischen Bestandtei
 
 ## Förderung von Mykorrhiza-Pilzen 
 
-Mykorrhiza bezeichnet eine Symbiose zwischen Pflanzen und bestimmten Pilzarten. Die Hyphen (Pilzfäden) sind in Kontakt mit den Pflanzenwurzeln, wo eine Art Austausch stattfindet. Der Pilz versorgt die Pflanze mit Wasser und gelösten Nährstoffen, insbesondere Phosphor, während die Pflanzen den Pilzen dafür Zucker geben[^7]. Mykorrhiza-Pilze bilden unterirdische Netzwerke, welche den Nährstoffaustausch über grosse Distanzen ermöglichen. Aus Sicht der Pflanze wird so ihr Wurzelbereich um ein Vielfaches erhöht und die Pflanze wird stresstoleranter und widerstandsfähiger gegenüber Pathogenen[^14]. Ungestörte und leicht basische Böden eines Food Forests können gute und nachhaltige Habitate für Mykorrhiza-Pilze sein.  
+Mykorrhiza bezeichnet eine Symbiose zwischen Pflanzen und bestimmten Pilzarten. Die Hyphen (Pilzfäden) sind in Kontakt mit den Pflanzenwurzeln, wo eine Art Austausch stattfindet. Der Pilz versorgt die Pflanze mit Wasser und gelösten Nährstoffen, insbesondere Phosphor, während die Pflanzen den Pilzen dafür Zucker geben[^7]. Mykorrhiza-Pilze bilden unterirdische Netzwerke, welche den Nährstoffaustausch über grosse Distanzen ermöglichen. Aus Sicht der Pflanze wird so ihr Wurzelbereich um ein Vielfaches erhöht und die Pflanze wird stresstoleranter und widerstandsfähiger gegenüber Pathogenen[^14]. Ungestörte und leicht basische Böden eines Food Forests können gute und nachhaltige Habitate für Mykorrhiza-Pilze sein.
+
+![Pic](soil-fertility-2.jpg)
 
 Es gibt zwei grosse Gruppen von Mykorrhiza-Pilzen: 
 
@@ -84,7 +89,7 @@ Eine Studie aus England untersucht die Auswirkung der Baumreihen auf die Bodenst
 <br>
 
 # Quellen
-[^1]: Kopittke, P. M., Menzies, N. W., Wang, P., McKenna, B. A., & Lombi, E. (2019). Soil and the intensification of agriculture for global food security. Environment International, 132, 105078. https://doi.org/10.1016/j.envint.2019.105078 
+[^1]: Kopittke, P. M., Menzies, N. W., Wang, P., McKenna, B. A., & Lombi, E. (2019). Soil and the intensification of agriculture for global food security. Environment International, 132, 105078. https://doi.org/10.1016/j.envint.2019.105078
 [^2]: Soil. (2024). In Wikipedia. https://en.wikipedia.org/wiki/Soil 
 [^3]: UC Davis. (n.d.). Low Organic Matter. Soil Health. https://soilhealth.ucdavis.edu/soil-challenges/low-organic-matter 
 [^4]: Roscher, C., Schumacher, J., Baade, J., Wilcke, W., Gleixner, G., Weisser, W. W., Schmid, B., & Schulze, E.-D. (2004). The role of biodiversity for element cycling and trophic interactions: An experimental approach in a grassland community. Basic and Applied Ecology, 5(2), 107–121. https://doi.org/10.1078/1439-1791-00216 
